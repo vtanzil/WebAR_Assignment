@@ -1,0 +1,11 @@
+Model Information:
+* title:	HandPainted Crème Brûlée
+* source:	https://sketchfab.com/3d-models/handpainted-creme-brulee-1ab28887546540d69a4c34618b285387
+* author:	Myun (https://sketchfab.com/Myun)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "HandPainted Crème Brûlée" (https://sketchfab.com/3d-models/handpainted-creme-brulee-1ab28887546540d69a4c34618b285387) by Myun (https://sketchfab.com/Myun) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
